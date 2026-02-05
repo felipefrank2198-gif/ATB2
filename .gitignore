@@ -1,0 +1,8 @@
+.next/
+node_modules/
+.env
+dev.db
+dist/
+out/
+public/sw.js
+public/workbox-*.js
